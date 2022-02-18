@@ -1,0 +1,2 @@
+# Amostragens
+Exemplos amostras estatísticas
